@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 026dd03c9cbe8e347b4b6a7a54db9903
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5759524183600635203
+    second: ShredderTransparent_0
+  - first:
+      213: 5626674406562586820
+    second: ShredderTransparent_1
+  - first:
+      213: -7244907624564848871
+    second: ShredderTransparent_2
+  - first:
+      213: -9197327246979144855
+    second: ShredderTransparent_3
+  - first:
+      213: -5344545342904946891
+    second: ShredderTransparent_4
+  - first:
+      213: -5517373719531588458
+    second: ShredderTransparent_5
+  - first:
+      213: -2607547668831454330
+    second: ShredderTransparent_6
+  - first:
+      213: -4350918849403151627
+    second: ShredderTransparent_7
+  - first:
+      213: -8991630531419534534
+    second: ShredderTransparent_8
+  - first:
+      213: -8784066922957840779
+    second: ShredderTransparent_9
+  - first:
+      213: 3437870569137629989
+    second: ShredderTransparent_10
+  - first:
+      213: -3299184769056018350
+    second: ShredderTransparent_11
+  - first:
+      213: 2099876836245357728
+    second: ShredderTransparent_12
+  - first:
+      213: 6354206535035193461
+    second: ShredderTransparent_13
+  - first:
+      213: -4575153236956046885
+    second: ShredderTransparent_14
+  - first:
+      213: -3150210673681402880
+    second: ShredderTransparent_15
+  - first:
+      213: 7699119075372577427
+    second: ShredderTransparent_16
+  - first:
+      213: -4881680564776743413
+    second: ShredderTransparent_17
+  - first:
+      213: 8867398501983266908
+    second: ShredderTransparent_18
+  - first:
+      213: -2529798606921498222
+    second: ShredderTransparent_19
+  - first:
+      213: 5911726071639196146
+    second: ShredderTransparent_20
+  - first:
+      213: -2598073270237000682
+    second: ShredderTransparent_21
+  - first:
+      213: 6478325195252420248
+    second: ShredderTransparent_22
+  - first:
+      213: -3960563441057590002
+    second: ShredderTransparent_23
+  - first:
+      213: -9033013168916103633
+    second: ShredderTransparent_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShredderTransparent_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 319
+        width: 37
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d99cecab0fdef40800000000000000
+      internalID: 5759524183600635203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 319
+        width: 56
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0e1f5bf86f51e40800000000000000
+      internalID: 5626674406562586820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 335
+        width: 180
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9170b4f86eae47b90800000000000000
+      internalID: -7244907624564848871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 211
+        width: 69
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96369c039978c5080800000000000000
+      internalID: -9197327246979144855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 211
+        width: 75
+        height: 94
+      alignment: 9
+      pivot: {x: 0.41, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fae26c35c54d5b0800000000000000
+      internalID: -5344545342904946891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 211
+        width: 77
+        height: 94
+      alignment: 9
+      pivot: {x: 0.34, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6947e3a95d95e63b0800000000000000
+      internalID: -5517373719531588458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 255
+        width: 30
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b3768e53120dbd0800000000000000
+      internalID: -2607547668831454330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 246
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa16cecb5e6e93c0800000000000000
+      internalID: -4350918849403151627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 110
+        width: 66
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b8e2fdbaf473380800000000000000
+      internalID: -8991630531419534534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 111
+        width: 62
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ed6dd6ca9b81680800000000000000
+      internalID: -8784066922957840779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 177
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52be7396115c5bf20800000000000000
+      internalID: 3437870569137629989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 153
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2507900bee0f632d0800000000000000
+      internalID: -3299184769056018350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4c9706bd2442d10800000000000000
+      internalID: 2099876836245357728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9
+        width: 67
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5780d367d2dae2850800000000000000
+      internalID: 6354206535035193461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 9
+        width: 58
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd991460f5ac180c0800000000000000
+      internalID: -4575153236956046885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 67
+        width: 131
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004739335143844d0800000000000000
+      internalID: -3150210673681402880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 67
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3923403e104c8da60800000000000000
+      internalID: 7699119075372577427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 67
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ecd8df369c04cb0800000000000000
+      internalID: -4881680564776743413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 9
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c582b80c4f35f0b70800000000000000
+      internalID: 8867398501983266908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_19
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 11
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2918a29029954ecd0800000000000000
+      internalID: -2529798606921498222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 9
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1487d5a8baa0250800000000000000
+      internalID: 5911726071639196146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 9
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c061b302ac1fbd0800000000000000
+      internalID: -2598073270237000682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_22
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 11
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ecb720172a7e950800000000000000
+      internalID: 6478325195252420248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 9
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e051d59c8804909c0800000000000000
+      internalID: -3960563441057590002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShredderTransparent_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 9
+        width: 92
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e745fb16a44a280800000000000000
+      internalID: -9033013168916103633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
